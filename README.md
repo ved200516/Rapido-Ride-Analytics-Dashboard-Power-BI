@@ -1,3 +1,6 @@
+[Cleaned_rapido_file.csv](https://github.com/user-attachments/files/23546589/Cleaned_rapido_file.csv)
+[Cleaned_rapido_file.xlsx](https://github.com/user-attachments/files/23546573/Cleaned_rapido_file.xlsx)
+[Cleaned_rapido_file.csv](https://github.com/user-attachments/files/23546564/Cleaned_rapido_file.csv)
 # Rapido-Ride-Analytics-Dashboard-Power-BI
 I built a Rapido Ride Analytics Dashboard in Power BI to analyze bookings, revenue, distance, ratings, and cancellations. Added KPIs, monthly trends, payment analysis, and custom yellow-black UI with icons. Includes slicers for month, payment method, and city.
 This project is a complete Rapido Ride Analytics Dashboard built using Power BI.
